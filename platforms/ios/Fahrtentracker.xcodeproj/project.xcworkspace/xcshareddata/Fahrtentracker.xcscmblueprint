@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A0F5F8AD761BDE79599FC9CDE88D871D8229DA9A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A0F5F8AD761BDE79599FC9CDE88D871D8229DA9A" : 0,
+    "6F8FF652BAEA6F38AC7615916351761D79901A0B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "46726D88-6A04-4225-807A-A1B9FCA67B18",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A0F5F8AD761BDE79599FC9CDE88D871D8229DA9A" : "ODL-Crossplatform\/",
+    "6F8FF652BAEA6F38AC7615916351761D79901A0B" : "goodl\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Fahrtentracker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "platforms\/ios\/Fahrtentracker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/10.10.10.1:10022\/odl\/goodl.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F8FF652BAEA6F38AC7615916351761D79901A0B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/10.10.10.1:10022\/odl\/ODL-Crossplatform.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A0F5F8AD761BDE79599FC9CDE88D871D8229DA9A"
+    }
+  ]
+}
